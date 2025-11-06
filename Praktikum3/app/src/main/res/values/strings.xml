@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Praktikum3</string>
+    <string name="prodi">Teknologi Informasi</string>
+    <string name="univ">Universitas Muhammadiyah Yogyakarta</string>
+    <string name="nama">Muhammad Aqil Firdaus</string>
+    <string name="alamat">Ringroad Selatan, Ambarketawang</string>
+    <string name="Copy">copyright, 2025</string>
+    <string name="copy" />
+</resources>
