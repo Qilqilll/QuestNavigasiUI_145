@@ -10,3 +10,14 @@ import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import com.example.praktikum5.view.FormIsian
 import com.example.praktpam5.view.TampilData
+
+enum class Navigasi {
+    Formulirku,
+    Detail
+}
+
+@Composable
+fun DataApp(
+    navController: NavHostController = rememberNavController(),
+    modifier: Modifier
+){
